@@ -1,0 +1,10 @@
+github.com/Tnze/go-mc v1.19.2 h1:g2KKNeeBO4ZzgXp/hjCK/gm/8YRhx1QXdlcqkps8KdE=
+github.com/Tnze/go-mc v1.19.2/go.mod h1:uNMPHRugYj2nXIHbmm8XTQJ1NpQAC2p214es9BIC5Rc=
+github.com/beito123/binary v3.0.1+incompatible h1:GniqmTj6DFBXRhJoOuhPab3EguOKIU6HPyF/0VKo0HI=
+github.com/beito123/binary v3.0.1+incompatible/go.mod h1:dbKbifKzgf/8daS0F4kV7EFiN2lcSQkbTfFsV3yCWtE=
+github.com/beito123/nbt v1.2.2 h1:S7vLgWtXvflrTVSdpDOOVYAmmL10Yw9jztlAgJLIOqI=
+github.com/beito123/nbt v1.2.2/go.mod h1:6f4/PTOuiGvZLfohRUdWZnpzaTplwatrY0RSfPYSaLw=
+github.com/joho/godotenv v1.5.1 h1:7eLL/+HRGLY0ldzfGMeQkb7vMd0as4CfYvUVzLqw0N0=
+github.com/joho/godotenv v1.5.1/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=
+golang.org/x/net v0.8.0 h1:Zrh2ngAOFYneWTAIAPethzeaQLuHwhuBkuV6ZiRnUaQ=
+golang.org/x/net v0.8.0/go.mod h1:QVkue5JL9kW//ek3r6jTKnTFis1tRmNAW2P1shuFdJc=
